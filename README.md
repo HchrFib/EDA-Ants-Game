@@ -10,19 +10,19 @@ Once the AIxxxx.cc player is created
 
 ## Compile:
 
-make all
+> make all
 
 ## Play a game:
 
-./Game Player1 player2 player3 player4 -s 40 -i default.cnf -o default.o
+> ./Game Player1 player2 player3 player4 -s 40 -i default.cnf -o default.o
 
 ## Example:
 
-./Game Hormigator13 Hormigator12 Hormigator11 Hormigator14 -s 40 -i default.cnf -o default.out
+> ./Game Hormigator13 Hormigator12 Hormigator11 Hormigator14 -s 40 -i default.cnf -o default.out
 
 ## Clean game folder
-make clean
+> make clean
 
 ## View game:
 
-Go to the viewer/viewer.html folder, the browser will open and load the default.out file
+> Go to the viewer/viewer.html folder, the browser will open and load the default.out file
